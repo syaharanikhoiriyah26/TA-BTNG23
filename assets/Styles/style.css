@@ -1,0 +1,63 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+.banner {
+  background: url("../Image/photo1.jpeg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 35px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-light {
+  background-color: #edf4ff !important;
+}
+
+#contact {
+  background: #dedede;
+  padding: 50px 0px 50px 0px;
+}
+
+.footer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.footer-section {
+  width: 20%;
+  margin: 0 auto;
+}
+
+#copyright {
+  text-align: center;
+  width: 100%;
+  padding: 50px 0px 50px 0px;
+  margin-top: 50px;
+}
